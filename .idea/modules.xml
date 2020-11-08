@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Numeral_System_Converter.iml" filepath="$PROJECT_DIR$/.idea/modules/Numeral_System_Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter.Numeral_System_Converter-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter.Numeral_System_Converter-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter.Numeral_System_Converter-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter.Numeral_System_Converter-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter.Numeral_System_Converter-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter.Numeral_System_Converter-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Division/Numeral_System_Converter.Problems-Division.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Division/Numeral_System_Converter.Problems-Division.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Division/Numeral_System_Converter.Problems-Division.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Division/Numeral_System_Converter.Problems-Division.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Division/Numeral_System_Converter.Problems-Division.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Division/Numeral_System_Converter.Problems-Division.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sign of a number/Numeral_System_Converter.Problems-The_sign_of_a_number.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sign of a number/Numeral_System_Converter.Problems-The_sign_of_a_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sign of a number/Numeral_System_Converter.Problems-The_sign_of_a_number.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sign of a number/Numeral_System_Converter.Problems-The_sign_of_a_number.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sign of a number/Numeral_System_Converter.Problems-The_sign_of_a_number.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sign of a number/Numeral_System_Converter.Problems-The_sign_of_a_number.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Numeral_System_Converter.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Numeral_System_Converter.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Numeral_System_Converter.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Numeral_System_Converter.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Numeral_System_Converter.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Numeral_System_Converter.util.test.iml" />
+    </modules>
+  </component>
+</project>
